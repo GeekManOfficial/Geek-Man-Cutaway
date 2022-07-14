@@ -49,9 +49,8 @@ body {
 }
 
 .main_text {
-    line-height: 28px;
-    font-family: 'Press Start 2P', cursive;
-    font-size: 14px;
+    line-height: 36px;
+    font-family: 'Roboto', sans-serif;
     color: rgb(255, 255, 255);
     text-shadow: 0px 4px rgba(0, 0, 0, 0.3);
 }
